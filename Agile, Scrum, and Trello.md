@@ -14,6 +14,7 @@ The goal of this lecture is to set expectations in Mod 5. Standup is important. 
        * We can catch bad decisions (time waste, breakers, etc) before you make them
        * Helps you to focus on the process, not the product
        * This is real world
+*  Scrum
 *  Trello Workshop
   * Setting up Trello
     * Sign Up
